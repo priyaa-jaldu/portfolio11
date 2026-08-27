@@ -1,1 +1,448 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Portfolio | Roll No. 11</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <!-- Navigation -->
+    <header>
+        <nav class="navbar">
+            <div class="logo">My Portfolio</div>
+
+            <ul class="nav-links">
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#education">Education</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#achievements">Achievements</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+
+    <!-- Home -->
+    <section id="home" class="hero">
+
+        <div class="hero-content">
+
+            <p>WELCOME TO MY PORTFOLIO</p>
+
+            <h1>
+                Hello, I'm <span>Your Name</span>
+            </h1>
+
+            <h2>Student | Learner | Creator</h2>
+
+            <p>
+                I am a student interested in programming,
+                web technologies, and learning new skills.
+            </p>
+
+            <p>
+                <strong>Roll Number: 11</strong>
+            </p>
+
+            <div class="buttons">
+                <a href="#projects">View My Projects</a>
+                <a href="#contact">Contact Me</a>
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- About -->
+    <section id="about">
+
+        <div class="section-title">
+            <p>GET TO KNOW ME</p>
+            <h2>About Me</h2>
+        </div>
+
+        <div class="about-content">
+
+            <div class="about-image">
+                <div class="photo">
+                    YOUR PHOTO
+                </div>
+            </div>
+
+            <div class="about-text">
+
+                <h3>About Myself</h3>
+
+                <p>
+                    Hello! My name is <strong>Your Name</strong>.
+                    I am a student who enjoys learning programming,
+                    web development, and new technologies.
+                </p>
+
+                <p>
+                    I like to improve my knowledge by practicing
+                    programming and creating small projects.
+                </p>
+
+                <div class="details">
+
+                    <p>
+                        <strong>Name:</strong>
+                        Your Name
+                    </p>
+
+                    <p>
+                        <strong>Roll Number:</strong>
+                        11
+                    </p>
+
+                    <p>
+                        <strong>Course:</strong>
+                        Your Course
+                    </p>
+
+                    <p>
+                        <strong>College:</strong>
+                        Your College Name
+                    </p>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- Skills -->
+    <section id="skills">
+
+        <div class="section-title">
+            <p>WHAT I AM LEARNING</p>
+            <h2>My Skills</h2>
+        </div>
+
+        <div class="skills-container">
+
+            <div class="skill-card">
+                <h3>HTML</h3>
+                <p>
+                    Creating the structure of web pages.
+                </p>
+            </div>
+
+            <div class="skill-card">
+                <h3>CSS</h3>
+                <p>
+                    Designing attractive and responsive websites.
+                </p>
+            </div>
+
+            <div class="skill-card">
+                <h3>JavaScript</h3>
+                <p>
+                    Learning to add interaction to websites.
+                </p>
+            </div>
+
+            <div class="skill-card">
+                <h3>Python</h3>
+                <p>
+                    Learning programming and problem solving.
+                </p>
+            </div>
+
+            <div class="skill-card">
+                <h3>C Programming</h3>
+                <p>
+                    Practicing programming fundamentals.
+                </p>
+            </div>
+
+            <div class="skill-card">
+                <h3>GitHub</h3>
+                <p>
+                    Learning how to manage and store projects.
+                </p>
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- Education -->
+    <section id="education">
+
+        <div class="section-title">
+            <p>MY ACADEMIC JOURNEY</p>
+            <h2>Education</h2>
+        </div>
+
+        <div class="education-container">
+
+            <div class="education-card">
+
+                <span>2024 - Present</span>
+
+                <h3>Your Course / Degree</h3>
+
+                <h4>Your College Name</h4>
+
+                <p>
+                    Currently pursuing my studies and
+                    improving my technical skills.
+                </p>
+
+            </div>
+
+            <div class="education-card">
+
+                <span>Previous Education</span>
+
+                <h3>Higher Secondary Education</h3>
+
+                <h4>Your School Name</h4>
+
+                <p>
+                    Completed my previous education and
+                    developed an interest in technology.
+                </p>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- Projects -->
+    <section id="projects">
+
+        <div class="section-title">
+            <p>MY WORK</p>
+            <h2>My Projects</h2>
+        </div>
+
+        <div class="projects-container">
+
+            <div class="project-card">
+
+                <div class="project-number">01</div>
+
+                <h3>Student Portfolio</h3>
+
+                <p>
+                    A personal portfolio website created
+                    using HTML, CSS, and JavaScript.
+                </p>
+
+                <div class="technologies">
+                    <span>HTML</span>
+                    <span>CSS</span>
+                    <span>JavaScript</span>
+                </div>
+
+                <a href="#">View Project →</a>
+
+            </div>
+
+
+            <div class="project-card">
+
+                <div class="project-number">02</div>
+
+                <h3>Simple Web Page</h3>
+
+                <p>
+                    A simple webpage created to practice
+                    HTML and CSS.
+                </p>
+
+                <div class="technologies">
+                    <span>HTML</span>
+                    <span>CSS</span>
+                </div>
+
+                <a href="#">View Project →</a>
+
+            </div>
+
+
+            <div class="project-card">
+
+                <div class="project-number">03</div>
+
+                <h3>JavaScript Project</h3>
+
+                <p>
+                    An interactive project created while
+                    practicing JavaScript.
+                </p>
+
+                <div class="technologies">
+                    <span>HTML</span>
+                    <span>CSS</span>
+                    <span>JavaScript</span>
+                </div>
+
+                <a href="#">View Project →</a>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- Achievements -->
+    <section id="achievements">
+
+        <div class="section-title">
+            <p>MY PROGRESS</p>
+            <h2>Achievements</h2>
+        </div>
+
+        <div class="achievements-container">
+
+            <div class="achievement-card">
+                <div class="icon">★</div>
+                <h3>Certificate</h3>
+                <p>
+                    Add your certificate details here.
+                </p>
+            </div>
+
+            <div class="achievement-card">
+                <div class="icon">★</div>
+                <h3>Achievement</h3>
+                <p>
+                    Add your achievement details here.
+                </p>
+            </div>
+
+            <div class="achievement-card">
+                <div class="icon">★</div>
+                <h3>Competition</h3>
+                <p>
+                    Add your competition details here.
+                </p>
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- Contact -->
+    <section id="contact">
+
+        <div class="section-title">
+            <p>GET IN TOUCH</p>
+            <h2>Contact Me</h2>
+        </div>
+
+        <div class="contact-container">
+
+            <div class="contact-info">
+
+                <h3>Let's Connect</h3>
+
+                <p>
+                    Feel free to contact me for any questions
+                    or opportunities.
+                </p>
+
+                <p>
+                    <strong>Email:</strong>
+                    your-email@example.com
+                </p>
+
+                <p>
+                    <strong>Roll Number:</strong>
+                    11
+                </p>
+
+                <p>
+                    <strong>Location:</strong>
+                    Your City, India
+                </p>
+
+                <div class="social-links">
+                    <a href="#">GitHub</a>
+                    <a href="#">LinkedIn</a>
+                    <a href="#">Instagram</a>
+                </div>
+
+            </div>
+
+
+            <form id="contactForm">
+
+                <label for="name">Your Name</label>
+
+                <input
+                    type="text"
+                    id="name"
+                    placeholder="Enter your name"
+                    required
+                >
+
+                <label for="email">Your Email</label>
+
+                <input
+                    type="email"
+                    id="email"
+                    placeholder="Enter your email"
+                    required
+                >
+
+                <label for="message">Your Message</label>
+
+                <textarea
+                    id="message"
+                    rows="6"
+                    placeholder="Write your message..."
+                    required
+                ></textarea>
+
+                <button type="submit">
+                    Send Message
+                </button>
+
+            </form>
+
+        </div>
+
+    </section>
+
+
+    <!-- Footer -->
+    <footer>
+
+        <h3>Student Portfolio</h3>
+
+        <p>Roll No. 11</p>
+
+        <p>Learning • Creating • Growing</p>
+
+        <p>
+            © 2026 Student Portfolio. All Rights Reserved.
+        </p>
+
+    </footer>
+
+
+    <!-- JavaScript -->
+    <script src="script.js"></script>
+
+</body>
+</html>
 
